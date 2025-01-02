@@ -4,9 +4,9 @@ A project created to track and analyze MLB baseball statistics, with inspiration
 
 ## Demo Videos
 
-[Feature Demo](https://drive.google.com/file/d/16P-L0qlSNGKabFKaUxFZ9OpLhzYxTgnM/view?usp=sharing)
+[Feature Demo](https://drive.google.com/file/d/1xTIXoyyH3bm8FdF4xU-Qn0BOyAJK_a4Y/view?usp=drive_link)
 
-[Setup Demo](https://drive.google.com/file/d/1X_w3iSUIZSOpsjB1Q-FAhmlAau5o5cmL/view?usp=sharing)
+[Setup Demo](https://drive.google.com/file/d/1JHBbbEYctTSk9vOXWYUJqJ8PpleypanF/view?usp=drive_link)
 
 ## Implemented Features
 
